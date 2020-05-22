@@ -1,4 +1,4 @@
-# Retail Sales in the USA (Q4 1999 - Q1 2020): The rise of E-commerce
+# The rise of E-commerce - Retail Sales in the USA (Q4 1999 - Q1 2020)
 
 The way we consume goods and services has evolved quite drastically since we've entered the "digital age".
 
