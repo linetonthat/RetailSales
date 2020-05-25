@@ -12,6 +12,7 @@ How has e-commerce developed over the years?
 For this project, we study data from the Federal Bank of Saint Louis, USA:
 * E-Commerce Retail Sales (ECOMNSA)
 * E-Commerce Retail Sales as a Percent of Total Sales (ECOMPCTNSA)
+
 E-Commerce Retail Sales is a measure of U.S. "sales of goods and services where the buyer places an order, or the price and terms of the sale are negotiated over an Internet, mobile device (M-commerce), extranet, Electronic Data Interchange (EDI) network, electronic mail, or other comparable online system. Payment may or may not be made online."
 
 Source:
