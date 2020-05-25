@@ -2,9 +2,12 @@
 
 The way we consume goods and services has evolved quite drastically since we've entered the "digital age".
 
-How has e-commerce developed over the year?
+How has e-commerce developed over the years?
 * Is there there any pattern in the variations of e-commerce sales?
 * Can we predict how this type of sales evolves?
+* What is the share of E-commerce Retail Sales in the Total Sales?
+* Has its share grown faster than Total Sales?
+* Can we predict the share of E-commerce Retail Sales as a Percent of Total Sales?
 
 For this project, we study the E-Commerce Retail Sales which is a measure of U.S. "sales of goods and services where the buyer places an order, or the price and terms of the sale are negotiated over an Internet, mobile device (M-commerce), extranet, Electronic Data Interchange (EDI) network, electronic mail, or other comparable online system. Payment may or may not be made online."
 
